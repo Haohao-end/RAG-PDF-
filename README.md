@@ -62,7 +62,7 @@ ollama pull deepseek-r1
 跳到项目目录，敲下这行咒语：
 
 ```bash
-python your_script.py  # 把文件名换成你的脚本名哦
+python RAG.py  
 ```
 
 ### 3. 打开传送门
